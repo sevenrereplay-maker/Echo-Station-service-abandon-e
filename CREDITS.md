@@ -2,10 +2,11 @@
 
 Product Owner :
 
-Scrum Master :
+Scrum Master :lény DOMERGUE
 
 Développeur 1 :
 
 Développeur 2 :
 
 Développeur 3 :
+
