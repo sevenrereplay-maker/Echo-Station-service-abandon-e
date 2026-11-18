@@ -1,0 +1,28 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Blender : sauvegardes automatiques
+*.blend1
+*.blend2
+*.blend3
+
+# Caches et rendus intermédiaires
+/cache/
+/renders/tmp/
+*.tmp
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+*.csproj
+*.sln
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
