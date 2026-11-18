@@ -1,6 +1,6 @@
 # Crédits - Studio ÉCHO
 
-Product Owner :
+Product Owner : MARULLO Nathan
 
 Scrum Master :lény DOMERGUE
 
