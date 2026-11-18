@@ -14,6 +14,6 @@ git lfs install AVANT le clone, sinon les assets arrivent
 sous forme de pointeurs de texte et non de fichiers binaires.
 
 ## Conventions
-Nommage des fichiers. Convention de commit. Nommage des branches.
+Nommage des fichiers : Props,Texures. Convention de commit, mettre une description sur l'avancé de la tâche. Nommage des branches, 2 branches pour les 2 artistes travaillant sur le projet.
 
 
