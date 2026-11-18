@@ -1,4 +1,4 @@
-# Crédits - Studio ÉCHO
+# Crédits - Studio ÉCHOooooo
 
 Product Owner : MARULLO Nathan
 
